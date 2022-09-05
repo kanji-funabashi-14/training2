@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Views\GamePage33View.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GamePage34View.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GamePage35View.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GamePage36View.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GamePage43View.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GamePage44View.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GamePage45View.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GamePage46View.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GamePage53View.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GamePage54View.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GamePage55View.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GamePage56View.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GamePage63View.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GamePage64View.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GamePage65View.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\GamePage66View.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Views\SettingPageView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Views\GamePage33View.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GamePage34View.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GamePage35View.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GamePage36View.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GamePage43View.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GamePage44View.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GamePage45View.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GamePage46View.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GamePage53View.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GamePage54View.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GamePage55View.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GamePage56View.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GamePage63View.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GamePage64View.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GamePage65View.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\GamePage66View.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Views\SettingPageView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MemoryGameA_c1gnmoo4_wpftmp
+build_property.ProjectDir = C:\Users\k_funabashi\OneDrive - 株式会社メビウス\ドキュメント\新人トレーニング\開発用\MemoryGameA\MemoryGameA\
